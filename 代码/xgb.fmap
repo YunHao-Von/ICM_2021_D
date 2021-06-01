@@ -1,0 +1,14 @@
+0	danceability	q
+1	energy	q
+2	valence	q
+3	tempo	q
+4	loudness	q
+5	mode	q
+6	key	q
+7	acousticness	q
+8	instrumentalness	q
+9	liveness	q
+10	speechiness	q
+11	duration_ms	q
+12	popularity	q
+13	count	q
